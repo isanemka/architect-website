@@ -35,8 +35,8 @@ _testmain.go
 .DS_Store
 
 ##other
-./vid
-./documents
+./assets/vid
+./assets/documents
 #node_modules/
 #bower_components/
 .tmp
@@ -49,3 +49,4 @@ _testmain.go
 *.jpeg
 *.jpg
 *.psd
+*.pdf
