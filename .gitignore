@@ -35,6 +35,8 @@ _testmain.go
 .DS_Store
 
 ##other
+./vid
+./documents
 #node_modules/
 #bower_components/
 .tmp
@@ -42,7 +44,8 @@ _testmain.go
 #builds/**/images/*
 #*.ogg
 #*.mp3
-#*.mp4
+*.mp4
 #*.png
-#*.jpeg
+*.jpeg
+*.jpg
 *.psd
